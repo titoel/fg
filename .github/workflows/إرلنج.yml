@@ -1,6 +1,6 @@
 name: Erlang CI
 
-on:
+on:ACTIONS_STEP_DEBUG
   push:
     branches: [ "main" ]
   pull_request:
